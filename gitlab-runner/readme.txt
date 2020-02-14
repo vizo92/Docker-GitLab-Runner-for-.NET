@@ -1,0 +1,1 @@
+When new version of GitLab Runner will be marked as safe by AV Soft it can be uploaded here.
