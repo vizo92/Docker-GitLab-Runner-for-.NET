@@ -1,7 +1,9 @@
-# Docker-GitLab-Runner-for-.NET-4.5
+# Docker-GitLab-Runner-for-.NET
 
-Docker image containing:
-- .NET Framework 4.5+
+Docker image based on:
+- mcr.microsoft.com/dotnet/framework/sdk:4.8
+and containing:
+- .NET Framework
 - MSBuild
 - Git
 - NuGet
