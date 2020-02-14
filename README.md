@@ -2,6 +2,7 @@
 
 Docker image based on:
 - mcr.microsoft.com/dotnet/framework/sdk:4.8
+
 and containing:
 - .NET Framework
 - MSBuild
