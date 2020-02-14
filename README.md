@@ -11,4 +11,4 @@ and containing:
 - GitLab Runner
 
 # Download image
-`docker pull vizo92/gitlab_runner_net45:v1`
+`soon`
