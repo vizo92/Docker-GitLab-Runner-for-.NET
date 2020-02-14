@@ -9,3 +9,6 @@ and containing:
 - Git
 - NuGet
 - GitLab Runner
+
+# Download image
+`docker pull vizo92/gitlab_runner_net45:v1`
