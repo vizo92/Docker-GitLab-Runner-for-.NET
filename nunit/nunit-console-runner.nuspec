@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>nunit-console-runner</id>
+    <version>3.11.1</version>
+    <title>NUnit 3 Console Runner</title>
+    <authors>Charlie Poole, Rob Prouse</authors>
+    <owners>Charlie Poole, Rob Prouse</owners>
+    <licenseUrl>https://raw.githubusercontent.com/nunit/nunit-console/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://nunit.org</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/nunit/resources/master/images/icon/nunit_256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package includes the nunit3-console runner and test engine for version 3 of the NUnit unit-testing framework.</description>
+    <summary>Console runner for the NUnit 3 unit-testing framework.</summary>
+    <releaseNotes>https://raw.githubusercontent.com/nunit/nunit-console/master/CHANGES.txt</releaseNotes>
+    <copyright>Copyright (c) 2020 Charlie Poole, Rob Prouse</copyright>
+    <language>en-US</language>
+    <tags>nunit console runner test testing tdd</tags>
+    <projectSourceUrl>https://github.com/nunit/nunit-console</projectSourceUrl>
+    <packageSourceUrl>https://github.com/nunit/nunit-console</packageSourceUrl>
+    <docsUrl>https://github.com/nunit/docs/wiki/Console-Command-Line</docsUrl>
+    <mailingListUrl>https://groups.google.com/forum/#!forum/nunit-discuss</mailingListUrl>
+    <bugTrackerUrl>https://github.com/nunit/nunit-console/issues</bugTrackerUrl>
+  </metadata>
+</package>
